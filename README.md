@@ -6,7 +6,7 @@
 
 Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-devanshu-saxena01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devanshu-saxena01/)](https://www.linkedin.com/in/devanshu-saxena01/)
+[![Linkedin Badge](https://img.shields.io/badge/-kaiwalyakoparkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/devanshu-saxena01/)](https://www.linkedin.com/in/devanshu-saxena01/)
 [![Instagram Badge](https://img.shields.io/badge/-devanshu0_1-purple?style=flat-square&logo=instagram&logoColor=white&link=https:https://www.instagram.com/devanshu0_1/)](https://www.instagram.com/devanshu0_1/)
 [![Hashnode Badge](https://img.shields.io/badge/-@kaiwalyakoparkar-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://kaiwalyakoparkar.hashnode.dev/)](https://kaiwalyakoparkar.hashnode.dev/)
 [![Gmail Badge](https://img.shields.io/badge/-kaiwalyakoparkar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiwalyakoparkar@gmail.com)](mailto:kaiwalyakoparkar@gmail.com)
