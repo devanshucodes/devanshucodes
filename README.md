@@ -1,4 +1,7 @@
-## Hi, I am Devanshu! Great to see you here! 👋
+<h1 align="center">Hi 👋, I'm Devanshu Saxena </h1>
+<h3 align="center">A Deep Learning enthusiast from India</h3>
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 
