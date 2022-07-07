@@ -10,6 +10,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanshu0605&show_icons=true&theme=radical)
 
+<img src="https://activity-graph.herokuapp.com/graph?username=devanshu0605&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+
 <!--
 **devanshu0605/devanshu0605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
