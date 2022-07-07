@@ -36,10 +36,10 @@
 <a href='https://www.buymeacoffee.com/devanshu21p' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Kaiwalya on buymecoffee' /></a>
 </p>
 
-### 📫 Find out more about me & feel free to connect with me here:
-<p> 
+## 📫 Find out more about me & feel free to connect with me here:
+ 
 [![Linkedin Badge](https://img.shields.io/badge/-Devanshu_saxena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/devanshu-saxena01/)](https://www.linkedin.com/in/devanshu-saxena01/)
 [![Instagram Badge](https://img.shields.io/badge/-devanshu0_1-purple?style=flat-square&logo=instagram&logoColor=white&link=https:https://www.instagram.com/devanshu0_1/)](https://www.instagram.com/devanshu0_1/)
 [![Gmail Badge](https://img.shields.io/badge/-devanshu2125.csme@kiet.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devanshu.2125csme@kiet.edu)](mailto:devanshu2125.csme@kiet.edu)
 [![Twitter Badge](https://img.shields.io/badge/-Devanshu-darkred?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/DEVANSHU0_1)](https://twitter.com/DEVANSHU0_1)
-</p>
+
