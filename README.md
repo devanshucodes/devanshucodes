@@ -28,6 +28,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-E10098?style=flat-square&logo=tailwind)
 ![Apollo GraphQL](https://img.shields.io/badge/-Angular%20-311C87?style=flat-square&logo=apollo-graphql)
+![Flutter](https://img.shields.io/badge/-flutter-007ACC?style=flat-square&logo=Flutter)
 
 ## 💰 Support
 <p>
