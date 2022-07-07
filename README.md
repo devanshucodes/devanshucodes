@@ -1,10 +1,9 @@
 ## Hi, I am Devanshu! Great to see you here! 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
 
 
-Find out more about me & feel free to connect with me here:
+📫 Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Devanshu_saxena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/devanshu-saxena01/)](https://www.linkedin.com/in/devanshu-saxena01/)
 [![Instagram Badge](https://img.shields.io/badge/-devanshu0_1-purple?style=flat-square&logo=instagram&logoColor=white&link=https:https://www.instagram.com/devanshu0_1/)](https://www.instagram.com/devanshu0_1/)
