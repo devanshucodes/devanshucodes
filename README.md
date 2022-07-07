@@ -6,8 +6,8 @@
 
 Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-devanshu0605-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.linkedin.com/in/kaiwalyakoparkar/)
-[![Instagram Badge](https://img.shields.io/badge/-kaiwalya.koparkar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kaiwalya.koparkar/)](https://instagram.com/kaiwalya.koparkar)
+[![Linkedin Badge](https://img.shields.io/badge/-devanshu0_1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.linkedin.com/in/kaiwalyakoparkar/)
+[![Instagram Badge](https://img.shields.io/badge/-devanshu-purple?style=flat-square&logo=instagram&logoColor=white&link=https:https://www.instagram.com/devanshu0_1/)](https://www.instagram.com/devanshu0_1/)
 [![Hashnode Badge](https://img.shields.io/badge/-@kaiwalyakoparkar-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://kaiwalyakoparkar.hashnode.dev/)](https://kaiwalyakoparkar.hashnode.dev/)
 [![Gmail Badge](https://img.shields.io/badge/-kaiwalyakoparkar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiwalyakoparkar@gmail.com)](mailto:kaiwalyakoparkar@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://kaiwalyakoparkar.github.io/)](https://kaiwalyakoparkar.github.io/)
