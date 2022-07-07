@@ -13,7 +13,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-devanshu2125.csme@kiet.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devanshu.2125csme@kiet.edu)](mailto:devanshu2125.csme@kiet.edu)
 [![Twitter Badge](https://img.shields.io/badge/-Devanshu-darkred?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/DEVANSHU0_1)](https://twitter.com/DEVANSHU0_1)
 
-<img src="https://activity-graph.herokuapp.com/graph?username=devanshu0605&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+
 
 ## ⚡ Technologies
 
@@ -47,3 +47,4 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devanshu0605&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshu0605&theme=tokyonight" />
 </p>
+<img src="https://activity-graph.herokuapp.com/graph?username=devanshu0605&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
