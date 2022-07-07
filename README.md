@@ -8,6 +8,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanshu0605&show_icons=true&theme=radical)
+
 <!--
 **devanshu0605/devanshu0605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
