@@ -33,8 +33,6 @@
 <a href='https://www.buymeacoffee.com/devanshu21p' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Kaiwalya on buymecoffee' /></a>
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=devanshu0605&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
-
 📫 Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Devanshu_saxena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/devanshu-saxena01/)](https://www.linkedin.com/in/devanshu-saxena01/)
