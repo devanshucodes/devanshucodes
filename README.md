@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Devanshu Saxena </h1>
-<h3 align="center">A Devloper from India 🇮🇳 </h3>
+<h3 align="center">A Devloper from India  </h3>
 
 ## 📈 Stats
 <p align="center">
