@@ -1,6 +1,12 @@
 <h1 align="center">Hey... <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Devanshu Saxena </h1>
 <h3 align="center">A Devloper from India 🇮🇳 </h3>
 
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?color=45ffaa&size=40&width=900&height=80&lines=Welcome-to-The-World-Of-Devanshu-Saxena"/>
+<!--     <img src="https://readme-typing-svg.herokuapp.com?color=7FFF00&size=40&width=900&height=80&lines=Building-India's-Largest-Student-Community"/> -->
+</p>
+
+
 ## 📈 Stats
 <p align="center">
 
@@ -12,6 +18,15 @@
 
 
 <img src="https://activity-graph.herokuapp.com/graph?username=devanshu0605&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+
+![](https://media-exp1.licdn.com/dms/image/C5616AQERgnIMqCw2cw/profile-displaybackgroundimage-shrink_350_1400/0/1634467373344?e=1646265600&v=beta&t=nJtU58MCU_FlAdTX6A_vUrBrOZuO_3nqrVAPijhQevY)
+
+
+
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devanshu0605" alt="devanshu0605" /></a> </p>
+
 
 ## ⚡ Technologies
 
