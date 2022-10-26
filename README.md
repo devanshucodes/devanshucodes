@@ -34,12 +34,12 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=Java)
 ![C](https://img.shields.io/badge/-C-007ACC?style=flat-square&logo=c)
-![Dart](https://img.shields.io/badge/-Dart-007ACC?style=flat-square&logo=Dart)
+
 
 ### Libraries & Framework :
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/-Tailwind-E10098?style=flat-square&logo=tailwind)
+
 ![Apollo GraphQL](https://img.shields.io/badge/-Angular%20-311C87?style=flat-square&logo=apollo-graphql)
 ![Flutter](https://img.shields.io/badge/-flutter-007ACC?style=flat-square&logo=Flutter)
 
