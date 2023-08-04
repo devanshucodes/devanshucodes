@@ -11,8 +11,8 @@
 <p align="center">
 
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devanshu0605&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshu0605&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devanshucodes&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshucodes&theme=tokyonight" />
 </p>
 
 
